@@ -1,0 +1,4 @@
+Date & Time : 24-07-2026 17:42:32
+File Path   : /home/sarthak/Documents/python notepad/Assignment_32/sample.txt
+File Size   : 330 bytes
+----------------------------------------

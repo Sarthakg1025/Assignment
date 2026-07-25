@@ -1,0 +1,16 @@
+Directory Path : /home/sarthak/Documents/python notepad/Assignment_31
+Number of Files: 8
+Date and Time  : 2026-07-24 17:02:33
+----------------------------------------
+Directory Path : /home/sarthak/Documents/python notepad/Assignment_31
+Number of Files: 9
+Date and Time  : 2026-07-24 17:05:40
+----------------------------------------
+Directory Path : /home/sarthak/Documents/python notepad/Assignment_31
+Number of Files: 9
+Date and Time  : 2026-07-24 17:05:45
+----------------------------------------
+Directory Path : /home/sarthak/Documents/python notepad/Assignment_31
+Number of Files: 9
+Date and Time  : 2026-07-24 17:05:50
+----------------------------------------
