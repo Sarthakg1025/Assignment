@@ -195,7 +195,7 @@ Number of files scanned: {len(file_list)}
     Please find detailed log file attached to this email.
 
     Regards,
-    Avinash Pawar
+    Sarthak Ghodekar
     """
         attachment = [os.path.abspath(log_file_name)]
         if is_email_sender_valid: 
