@@ -255,7 +255,8 @@ def print_usage(script_name):
 Duplicate File Removal Automation - Usage
 
 Example:
-    python {script_name} r'C:/Users/Avinash/Documents' 30 avi1996pawar@gmail.com
+    python {script_name} r'C:/Users/sarthak/Documents' 30 musicsarthak97@gmail.com
+    
 
 Explanation:
     - The script will scan the given directory every 30 minutes
@@ -278,7 +279,7 @@ Arguments:
     <receiver_email>     Email address to receive the log report
 
 Examples:
-    python {script_name} r'C:/Users/Avinash/Documents' 30 avi1996pawar@gmail.com
+    python {script_name} r'C:/Users/sarthak/Documents' 30 musicsarthak97@gmail.com
 
 Notes:
     - All three arguments are required

@@ -17,7 +17,7 @@ def validate_email(email):
 def send_email(sender_email, password, rec_email, subject, body, attachments=None):
 
     try:
-        connectivity_status = check_smtp_connectivity("smtp.gmail.com", 465)
+        connectivity_status = check_smtp_connectivity("mugmail.com", 465)
         if (not connectivity_status):
             return False
         
@@ -43,7 +43,7 @@ def send_email(sender_email, password, rec_email, subject, body, attachments=Non
                 )
     
         context = ssl.create_default_context()
-        server = smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context)
+        server = smtplib.SMTP_SSL("musicsarthak@gmail.com", 465, context=context)
         server.login(sender_email, password)
         server.send_message(msg)
 
